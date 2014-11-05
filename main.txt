@@ -1,3 +1,8 @@
 master code
 modification started
+complex modification started
+new feature1
+new feature2
+new complex feature1
+new complex feature2
 bug fix
